@@ -1,15 +1,9 @@
-name: Deploy to WP Engine
-on:
-  push:
-    branches:
-      - main
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v3
-    - name: GitHub Action Deploy to WP Engine
-      uses: wpengine/github-action-wpe-site-deploy@v3
-      with:
-        WPE_SSHG_KEY_PRIVATE: ${{ secrets.WPE_SSHG_KEY_PRIVATE }}
-        WPE_ENV: dreamstechno1
+    deploy:
+          runs-on: ubuntu-latest
+                steps:
+                        - name: Check SSH Client Version
+                                  run: |
+                                              which ssh
+                                                        ssh -V
+
