@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Doccure Cron\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-22 13:23+0000\n"
+"PO-Revision-Date: 2023-06-22 13:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: doccure_cron"
+
+#. Name of the plugin
+msgid "Doccure Cron"
+msgstr "Documenter Cron"
+
+#. Author of the plugin
+msgid "Dreamguys"
+msgstr "Gars de rêve"
+
+#: doccure_cron.php:121
+msgid "Every 5 mints"
+msgstr "Toutes les 5 menthes"
+
+#: doccure_cron.php:116
+msgid "Once a day"
+msgstr "1 fois par jour"
+
+#: doccure_cron.php:106
+msgid "Once a month"
+msgstr "1 fois par mois"
+
+#: doccure_cron.php:101
+msgid "Once a weekly"
+msgstr "1 fois par semaine"
+
+#. Description of the plugin
+msgid ""
+"This plugin is used for creating cron payouts for Doccure WordPress Theme"
+msgstr ""
+"Ce plugin est utilisé pour créer des paiements cron pour le thème Doccure "
+"WordPress"
+
+#: doccure_cron.php:111
+msgid "Twice a month"
+msgstr "2 fois par mois"

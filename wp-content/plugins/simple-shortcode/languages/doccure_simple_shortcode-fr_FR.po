@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Shortcode\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-19 09:14+0000\n"
+"PO-Revision-Date: 2023-07-19 09:18+0000\n"
+"Last-Translator: \n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: doccure_simple_shortcode"
+
+#: simpleshortcode.php:305 simpleshortcode.php:399 simpleshortcode.php:941
+#: simpleshortcode.php:1281
+msgid "Book Appointment"
+msgstr "Carnet De Rendez-Vous"
+
+#: simpleshortcode.php:78
+msgid "Book Now"
+msgstr "Réservez Maintenant"
+
+#: simpleshortcode.php:805
+msgid "Consult Now"
+msgstr "Consultez Maintenant"
+
+#: simpleshortcode.php:606 simpleshortcode.php:610
+msgid "Doctors"
+msgstr "Les médecins"
+
+#. Author of the plugin
+msgid "Dreamguys"
+msgstr "Dreamguys"
+
+#: simpleshortcode.php:190
+msgid "Gender"
+msgstr "Sexe"
+
+#: simpleshortcode.php:179
+msgid "Location"
+msgstr "Emplacement"
+
+#: simpleshortcode.php:1426 simpleshortcode.php:1579
+msgid "Read more"
+msgstr "Lire plus"
+
+#: simpleshortcode.php:1550
+msgid "Read News"
+msgstr "Lire Le Communiqué De"
+
+#: simpleshortcode.php:170
+msgid "Search Doctor, Make an Appointment"
+msgstr "Recherche de Médecin, Prendre un Rendez-vous"
+
+#. Description of the plugin
+msgid "shortcodes for doccure theme."
+msgstr "shortcodes pour doccure thème."
+
+#. Name of the plugin
+msgid "Simple Shortcode"
+msgstr "Simple Shortcode"
+
+#: simpleshortcode.php:1590 simpleshortcode.php:1635 simpleshortcode.php:1698
+#: simpleshortcode.php:1753 simpleshortcode.php:1818
+msgid "Sorry, no posts matched your criteria."
+msgstr "Désolé, aucun des postes correspondant à vos critères."
+
+#: simpleshortcode.php:198
+msgid "Speciality"
+msgstr "Spécialité"
+
+#: simpleshortcode.php:275
+msgid "Verified"
+msgstr "Vérifié"
+
+#: simpleshortcode.php:543 simpleshortcode.php:1203 simpleshortcode.php:1300
+msgid "View More"
+msgstr "Afficher Plus"

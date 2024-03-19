@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Doccure CPT\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-22 13:50+0000\n"
+"PO-Revision-Date: 2023-06-22 13:52+0000\n"
+"Last-Translator: \n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: doccure_cpt"
+
+#. Description of the plugin
+msgid "creating the post types for doccure theme."
+msgstr "créer les types de publication pour le thème doccure."
+
+#. Name of the plugin
+msgid "Doccure CPT"
+msgstr "Doccure CPT"
+
+#. Author of the plugin
+msgid "Dreamguys"
+msgstr "Dreamguys"

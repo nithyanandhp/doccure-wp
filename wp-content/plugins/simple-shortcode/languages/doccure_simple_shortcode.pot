@@ -1,0 +1,83 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Shortcode\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-19 09:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: doccure_simple_shortcode"
+
+#: simpleshortcode.php:305 simpleshortcode.php:399 simpleshortcode.php:941
+#: simpleshortcode.php:1281
+msgid "Book Appointment"
+msgstr ""
+
+#: simpleshortcode.php:78
+msgid "Book Now"
+msgstr ""
+
+#: simpleshortcode.php:805
+msgid "Consult Now"
+msgstr ""
+
+#: simpleshortcode.php:606 simpleshortcode.php:610
+msgid "Doctors"
+msgstr ""
+
+#. Author of the plugin
+msgid "Dreamguys"
+msgstr ""
+
+#: simpleshortcode.php:190
+msgid "Gender"
+msgstr ""
+
+#: simpleshortcode.php:179
+msgid "Location"
+msgstr ""
+
+#: simpleshortcode.php:1426 simpleshortcode.php:1579
+msgid "Read more"
+msgstr ""
+
+#: simpleshortcode.php:1550
+msgid "Read News"
+msgstr ""
+
+#: simpleshortcode.php:170
+msgid "Search Doctor, Make an Appointment"
+msgstr ""
+
+#. Description of the plugin
+msgid "shortcodes for doccure theme."
+msgstr ""
+
+#. Name of the plugin
+msgid "Simple Shortcode"
+msgstr ""
+
+#: simpleshortcode.php:1590 simpleshortcode.php:1635 simpleshortcode.php:1698
+#: simpleshortcode.php:1753 simpleshortcode.php:1818
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: simpleshortcode.php:198
+msgid "Speciality"
+msgstr ""
+
+#: simpleshortcode.php:275
+msgid "Verified"
+msgstr ""
+
+#: simpleshortcode.php:543 simpleshortcode.php:1203 simpleshortcode.php:1300
+msgid "View More"
+msgstr ""
